@@ -22,7 +22,6 @@ setup(
   download_url = 'https://github.com/lucidrains/stylegan2-pytorch/archive/v_036.tar.gz',
   keywords = ['generative adversarial networks', 'artificial intelligence'],
   install_requires=[
-      'aim',
       'einops',
       'contrastive_learner>=0.1.0',
       'fire',
